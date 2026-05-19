@@ -53,17 +53,17 @@ Sorry about that. Email **support@otfdp.com** with what you were doing when it c
 
 The prompt is from Apple's App Tracking Transparency framework. We use the response to decide whether the ads you see are personalized to your interests, or generic. Either choice is fine — the game works identically; only the ads themselves differ.
 
-## Bug reports for technical users
+## Bug reports
 
-If you're comfortable with GitHub, you can also file detailed bug reports at:
-**https://github.com/otfdp/color-by-nonogram/issues**
+Email **support@otfdp.com** with:
 
-Include reproduction steps, your device + app version, and any error messages you noticed. Pull requests are welcome.
+- A clear description of the issue
+- Steps to reproduce, if you can
+- Device + app version (Settings → About)
+- Screenshots if applicable
 
-## Roadmap
-
-We post updates on what's planned next at https://github.com/otfdp/color-by-nonogram.
+The more detail, the faster we can help.
 
 ---
 
-*Last updated 2026-05-17. Contact us if anything on this page is out of date.*
+*Last updated 2026-05-19. Contact us if anything on this page is out of date.*
