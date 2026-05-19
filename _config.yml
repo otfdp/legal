@@ -1,0 +1,12 @@
+# Jekyll config for GitHub Pages.
+# Picks one of GitHub's built-in themes for clean styling without
+# bundling our own CSS.
+
+title: otfdp legal
+description: Public legal + support pages for otfdp projects
+theme: jekyll-theme-cayman
+
+# Exclude config + meta files from the published site.
+exclude:
+  - README.md  # rendered as the site root (index), but listed here for clarity
+  - _config.yml
