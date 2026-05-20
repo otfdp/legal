@@ -15,7 +15,18 @@ If you request account deletion, we will permanently remove:
 
 The free-fill canvases you painted (per-puzzle repaint state) live only on your device and are removed automatically when you uninstall the app — nothing to delete server-side.
 
-## How to request deletion
+## How to delete your account
+
+### In the app (fastest, immediate)
+
+1. Open the app
+2. Go to **Settings → Legal → Delete my account**
+3. Confirm the destructive prompt
+4. Your account and all data are permanently deleted within seconds; no further action needed.
+
+### By email (if you no longer have the app installed)
+
+If you've uninstalled and can't reach the in-app option:
 
 **Email**: privacy@otfdp.com
 
@@ -23,7 +34,7 @@ Subject line: "Account deletion request"
 
 Include in the body:
 
-1. Your anonymous **Account ID** — find this in the app under Settings → Account → Account ID (tap to copy)
+1. Your anonymous **Account ID** — if you still have it (Settings → Account → Account ID before you uninstalled)
 2. The **device platform** you used (iOS or Android)
 3. (Optional) The reason — helps us improve, not required
 
