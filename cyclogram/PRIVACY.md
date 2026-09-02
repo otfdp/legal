@@ -12,7 +12,7 @@ Cyclogram is published by OFT Games LLC. For privacy questions, requests, or to 
 
 **If you never sign in, we never receive your data.** Cyclogram plays entirely on your device. Your puzzles, progress, energy and settings are stored locally, and nothing is sent to our backend unless and until you choose to create an account. Signing in is optional and is not required to play.
 
-The exceptions, which apply whether or not you sign in, are advertising and purchases — both handled by third parties, both described below.
+The exceptions, which apply whether or not you sign in, are advertising, purchases, and a check for app updates — all handled by third parties, all described below.
 
 ## What we collect
 
@@ -55,6 +55,14 @@ In-app purchases — picture packs, energy, and removing interstitial ads — ar
 
 We ask you to sign in before your first purchase. This is so that what you buy is attached to an account rather than to a single device — particularly energy, which the app stores cannot restore to you if the device is lost. If an entitlement does reach the App without an account, for example through the store's own restore function, it is stored locally and combined with your account the next time you sign in.
 
+### App updates
+
+On launch, the App asks Expo's update service whether a newer version of its
+code is available. That request necessarily reveals your device's IP address and
+the version and platform you are running to Expo, which hosts the update. It
+carries nothing about you, your progress or your account, and it happens whether
+or not you are signed in.
+
 ### What we do not collect
 
 - Your name, email, postal address or phone number, unless you sign in with Apple or Google
@@ -76,6 +84,7 @@ We do not sell personal data. We do not share data with third parties except as 
 The App relies on these services, each with its own privacy policy:
 
 - **Supabase** (backend storage and authentication, for signed-in players only) — https://supabase.com/privacy
+- **Expo** (checking for app updates on launch) — https://expo.dev/privacy
 - **Google AdMob** (advertising) — https://policies.google.com/privacy
 - **Apple App Store** (iOS purchases, distribution, Sign in with Apple) — https://www.apple.com/legal/privacy/
 - **Google Play** (Android purchases, distribution, Google Sign-In) — https://policies.google.com/privacy
