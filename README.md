@@ -10,6 +10,12 @@ Public-facing privacy policies, support pages, and data-deletion instructions fo
 - [Support](./color-by-nonogram/SUPPORT)
 - [Account / Data Deletion](./color-by-nonogram/DELETE_ACCOUNT)
 
+### Cyclogram
+
+- [Privacy Policy](./cyclogram/PRIVACY)
+- [Support](./cyclogram/SUPPORT)
+- [Account / Data Deletion](./cyclogram/DELETE_ACCOUNT)
+
 ## Updating
 
 Each project keeps a working copy of its legal docs in its own (private) repo. When a doc changes:
