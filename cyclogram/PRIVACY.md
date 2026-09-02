@@ -44,6 +44,12 @@ That last rule is deliberate, and we would rather explain it than have it look l
 
 Cyclogram shows ads through Google AdMob. On iOS and Android, AdMob may read your device's advertising identifier (IDFA on iOS, GAID on Android) to deliver and measure ads.
 
+AdMob also sees the IP address your device connects from, and uses it to estimate
+roughly which area you are in — city level or broader — so that the ads shown are
+not wholly unrelated to where you are. This is an estimate drawn from the
+connection itself. We never receive it, and the App has no location permission
+and no way to locate you.
+
 On iOS, we ask your permission first through Apple's App Tracking Transparency prompt. In the European Economic Area, the UK and Switzerland, we present Google's consent form on first launch. You may decline or withdraw consent at any time — ads will still be shown, but they will not be personalized, and the game is otherwise identical.
 
 ### Purchases
@@ -66,7 +72,8 @@ or not you are signed in.
 ### What we do not collect
 
 - Your name, email, postal address or phone number, unless you sign in with Apple or Google
-- Your contacts, photos, microphone, camera, or location, ever
+- Your contacts, photos, microphone, camera, or precise location, ever. The App
+  never asks for location permission and cannot see where you are
 - Any data from outside this App
 
 ## How we use what we collect
