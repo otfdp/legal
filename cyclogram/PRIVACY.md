@@ -6,11 +6,11 @@ This Website and Application are owned and operated by **OFT Games LLC**, a Geor
 
 ## Who we are
 
-Cyclogram is published by OFT Games LLC. For privacy questions, requests, or to exercise your rights, contact **privacy@otfdp.com**.
+Assemble by Cyclogram is published by OFT Games LLC. For privacy questions, requests, or to exercise your rights, contact **privacy@otfdp.com**.
 
 ## The short version
 
-**If you never sign in, we never receive your data.** Cyclogram plays entirely on your device. Your puzzles, progress, energy and settings are stored locally, and nothing is sent to our backend unless and until you choose to create an account. Signing in is optional and is not required to play.
+**If you never sign in, we never receive your data.** Assemble by Cyclogram plays entirely on your device. Your puzzles, progress, energy and settings are stored locally, and nothing is sent to our backend unless and until you choose to create an account. Signing in is optional and is not required to play.
 
 The exceptions, which apply whether or not you sign in, are advertising, purchases, and a check for app updates — all handled by third parties, all described below.
 
@@ -42,7 +42,7 @@ That last rule is deliberate, and we would rather explain it than have it look l
 
 ### Advertising identifiers
 
-Cyclogram shows ads through Google AdMob. On iOS and Android, AdMob may read your device's advertising identifier (IDFA on iOS, GAID on Android) to deliver and measure ads.
+Assemble by Cyclogram shows ads through Google AdMob. On iOS and Android, AdMob may read your device's advertising identifier (IDFA on iOS, GAID on Android) to deliver and measure ads.
 
 AdMob also sees the IP address your device connects from, and uses it to estimate
 roughly which area you are in — city level or broader — so that the ads shown are
@@ -192,7 +192,7 @@ We may update this policy from time to time. Material changes will be surfaced i
 
 These Terms are governed by the laws of the State of Georgia, United States, without regard to conflict of law principles.
 
-Any dispute arising from these Terms or your use of Cyclogram shall first be attempted to be resolved through good-faith negotiation. If negotiation fails, disputes shall be resolved through binding arbitration administered by the American Arbitration Association in accordance with its Consumer Arbitration Rules. The venue of arbitration shall be Savannah, Georgia. The arbitrator's decision shall be final and binding.
+Any dispute arising from these Terms or your use of Assemble by Cyclogram shall first be attempted to be resolved through good-faith negotiation. If negotiation fails, disputes shall be resolved through binding arbitration administered by the American Arbitration Association in accordance with its Consumer Arbitration Rules. The venue of arbitration shall be Savannah, Georgia. The arbitrator's decision shall be final and binding.
 
 **Class Action Waiver**: You agree that any dispute resolution proceedings will be conducted on an individual basis only, and not in a class, consolidated, or representative action.
 

@@ -1,4 +1,4 @@
-# Cyclogram — Support
+# Assemble by Cyclogram — Support
 
 Thanks for playing. If you're stuck, something's broken, or you've got a question, this page is the place to start.
 
@@ -55,7 +55,7 @@ Everything else merges in your favour: purchases combine, and you choose which p
 
 ### Do I have to sign in?
 
-No. Cyclogram plays fully without an account, and if you never sign in, nothing about you ever reaches us.
+No. Assemble by Cyclogram plays fully without an account, and if you never sign in, nothing about you ever reaches us.
 
 Signing in does two things: it protects your progress if you lose the device, and it attaches your purchases to you rather than to one phone. We ask before your first purchase for that second reason — particularly for energy, which the app stores can't restore.
 

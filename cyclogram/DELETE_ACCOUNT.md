@@ -1,10 +1,10 @@
 # Account & Data Deletion
 
-This page explains how to request deletion of your Cyclogram account and the data we hold about you, as required by Google Play and the App Store.
+This page explains how to request deletion of your Assemble by Cyclogram account and the data we hold about you, as required by Google Play and the App Store.
 
 ## First: do you have an account?
 
-Cyclogram does not create an account for you. If you have never signed in with Apple or Google, **we hold no data about you at all** — your progress lives only on your device. Uninstalling the App removes it, and there is nothing for us to delete.
+Assemble by Cyclogram does not create an account for you. If you have never signed in with Apple or Google, **we hold no data about you at all** — your progress lives only on your device. Uninstalling the App removes it, and there is nothing for us to delete.
 
 The rest of this page applies if you have signed in.
 
@@ -21,7 +21,7 @@ If you request account deletion, we permanently remove:
 
 The Apple ID or Google account itself is unaffected — that belongs to Apple or Google, and we have no control over it.
 
-**Purchases are not lost.** Your purchases are held by Apple or Google, not by us. Deleting your Cyclogram account removes our record of them, but non-consumable purchases such as picture packs and removing ads can be restored on any future install through the store's own restore function. Energy is consumable and cannot be restored by the store once spent or deleted.
+**Purchases are not lost.** Your purchases are held by Apple or Google, not by us. Deleting your Assemble by Cyclogram account removes our record of them, but non-consumable purchases such as picture packs and removing ads can be restored on any future install through the store's own restore function. Energy is consumable and cannot be restored by the store once spent or deleted.
 
 ## How to delete your account
 
@@ -54,7 +54,7 @@ Uninstalling removes all locally stored data from your device immediately — pr
 
 If you have never signed in, that is the end of it: nothing else exists anywhere.
 
-If you have signed in, your account on our backend persists, so that installing Cyclogram again and signing in restores your progress. To remove the account itself, use one of the methods above.
+If you have signed in, your account on our backend persists, so that installing Assemble by Cyclogram again and signing in restores your progress. To remove the account itself, use one of the methods above.
 
 ## Contact
 
