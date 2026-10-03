@@ -2,11 +2,11 @@
 
 **Last updated: 2026-05-17**
 
-This Website and Application are owned and operated by **OFT Games LLC**, a Georgia, USA limited liability company.
+This Website and Application are owned and operated by **OTF Productions LLC**, a Georgia, USA limited liability company.
 
 ## Who we are
 
-Color by Nonogram is published by OFT Games LLC. For privacy questions, requests, or to exercise your rights, contact **privacy@otfdp.com**.
+Color by Nonogram is published by OTF Productions LLC. For privacy questions, requests, or to exercise your rights, contact **privacy@otfdp.com**.
 
 ## What we collect
 

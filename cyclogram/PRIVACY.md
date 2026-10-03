@@ -2,11 +2,11 @@
 
 **Last updated: 2026-09-02**
 
-This Website and Application are owned and operated by **OFT Games LLC**, a Georgia, USA limited liability company.
+This Website and Application are owned and operated by **OTF Productions LLC**, a Georgia, USA limited liability company.
 
 ## Who we are
 
-Assemble by Cyclogram is published by OFT Games LLC. For privacy questions, requests, or to exercise your rights, contact **privacy@otfdp.com**.
+Assemble by Cyclogram is published by OTF Productions LLC. For privacy questions, requests, or to exercise your rights, contact **privacy@otfdp.com**.
 
 ## The short version
 
